@@ -1,0 +1,1051 @@
+text,intent,lang
+Cancel my order,cancel_order,en
+Don't deliver it,cancel_order,en
+Abort the purchase,cancel_order,en
+Please cancel my item,cancel_order,en
+Cancel my order,cancel_order,en
+Don't deliver it,cancel_order,en
+Cancel it now,cancel_order,en
+Cancel it now,cancel_order,en
+Don't deliver it,cancel_order,en
+Cancel my order,cancel_order,en
+Stop the order,cancel_order,en
+Please cancel my item,cancel_order,en
+Please cancel my item,cancel_order,en
+I want to cancel this,cancel_order,en
+I changed my mind,cancel_order,en
+Don't deliver it,cancel_order,en
+Cancel that product,cancel_order,en
+Cancel that product,cancel_order,en
+Cancel that product,cancel_order,en
+Don't deliver it,cancel_order,en
+Cancel that product,cancel_order,en
+"I made a mistake, cancel",cancel_order,en
+Don't deliver it,cancel_order,en
+I changed my mind,cancel_order,en
+Abort the purchase,cancel_order,en
+Abort the purchase,cancel_order,en
+"I made a mistake, cancel",cancel_order,en
+Don't deliver it,cancel_order,en
+Stop the order,cancel_order,en
+"I made a mistake, cancel",cancel_order,en
+I want to cancel this,cancel_order,en
+Abort the purchase,cancel_order,en
+Please cancel my item,cancel_order,en
+Don't deliver it,cancel_order,en
+Abort the purchase,cancel_order,en
+Cancel it now,cancel_order,en
+I changed my mind,cancel_order,en
+Don't deliver it,cancel_order,en
+Don't deliver it,cancel_order,en
+Cancel that product,cancel_order,en
+Cancel that product,cancel_order,en
+I changed my mind,cancel_order,en
+Please cancel my item,cancel_order,en
+I want to cancel this,cancel_order,en
+I want to cancel this,cancel_order,en
+"I made a mistake, cancel",cancel_order,en
+Cancel it now,cancel_order,en
+I changed my mind,cancel_order,en
+Cancel it now,cancel_order,en
+I changed my mind,cancel_order,en
+ऑर्डर कैंसिल कर दो,cancel_order,hi
+मैं इसे रद्द करना चाहता हूँ,cancel_order,hi
+ऑर्डर कैंसिल कर दो,cancel_order,hi
+ऑर्डर कैंसिल कर दो,cancel_order,hi
+मुझे अब ऑर्डर नहीं चाहिए,cancel_order,hi
+मुझे ऑर्डर नहीं चाहिए,cancel_order,hi
+कृपया ऑर्डर रद्द करें,cancel_order,hi
+मैं इसे रद्द करना चाहता हूँ,cancel_order,hi
+मुझे अब ऑर्डर नहीं चाहिए,cancel_order,hi
+उसे रद्द करो,cancel_order,hi
+मुझे ऑर्डर नहीं चाहिए,cancel_order,hi
+उसे रद्द करो,cancel_order,hi
+ऑर्डर कैंसिल कर दो,cancel_order,hi
+मुझे अब ऑर्डर नहीं चाहिए,cancel_order,hi
+कृपया ऑर्डर रद्द करें,cancel_order,hi
+कृपया ऑर्डर रद्द करें,cancel_order,hi
+मेरा ऑर्डर रद्द करें,cancel_order,hi
+ऑर्डर कैंसिल कर दो,cancel_order,hi
+उसे रद्द करो,cancel_order,hi
+ऑर्डर कैंसिल कर दो,cancel_order,hi
+मुझे ऑर्डर नहीं चाहिए,cancel_order,hi
+मेरा ऑर्डर रद्द करें,cancel_order,hi
+डिलीवरी मत करो,cancel_order,hi
+ऑर्डर कैंसिल कर दो,cancel_order,hi
+मैं इसे रद्द करना चाहता हूँ,cancel_order,hi
+ऑर्डर कैंसिल कर दो,cancel_order,hi
+ऑर्डर रोक दो,cancel_order,hi
+डिलीवरी मत करो,cancel_order,hi
+कृपया ऑर्डर रद्द करें,cancel_order,hi
+कृपया ऑर्डर रद्द करें,cancel_order,hi
+ऑर्डर कैंसिल कर दो,cancel_order,hi
+मुझे अब ऑर्डर नहीं चाहिए,cancel_order,hi
+मैं इसे रद्द करना चाहता हूँ,cancel_order,hi
+इसे अभी रद्द करें,cancel_order,hi
+इसे अभी रद्द करें,cancel_order,hi
+डिलीवरी मत करो,cancel_order,hi
+मुझे ऑर्डर नहीं चाहिए,cancel_order,hi
+मेरा ऑर्डर रद्द करें,cancel_order,hi
+मुझे ऑर्डर नहीं चाहिए,cancel_order,hi
+ऑर्डर रोक दो,cancel_order,hi
+कृपया ऑर्डर रद्द करें,cancel_order,hi
+उसे रद्द करो,cancel_order,hi
+मुझे अब ऑर्डर नहीं चाहिए,cancel_order,hi
+मैं इसे रद्द करना चाहता हूँ,cancel_order,hi
+मेरा ऑर्डर रद्द करें,cancel_order,hi
+ऑर्डर रोक दो,cancel_order,hi
+मेरा ऑर्डर रद्द करें,cancel_order,hi
+डिलीवरी मत करो,cancel_order,hi
+उसे रद्द करो,cancel_order,hi
+डिलीवरी मत करो,cancel_order,hi
+Cancela mi pedido,cancel_order,es
+"Me equivoqué, cancela",cancel_order,es
+Quiero cancelar esto,cancel_order,es
+Anula la compra,cancel_order,es
+Anula la compra,cancel_order,es
+Detén el pedido,cancel_order,es
+Por favor cancela el producto,cancel_order,es
+Por favor cancela el producto,cancel_order,es
+Detén el pedido,cancel_order,es
+Anula la compra,cancel_order,es
+Detén el pedido,cancel_order,es
+No lo entregues,cancel_order,es
+Quiero cancelar esto,cancel_order,es
+Por favor cancela el producto,cancel_order,es
+Quiero cancelar esto,cancel_order,es
+Detén el pedido,cancel_order,es
+Anula la compra,cancel_order,es
+Ya no lo quiero,cancel_order,es
+Quiero cancelar esto,cancel_order,es
+Por favor cancela el producto,cancel_order,es
+Cancela mi pedido,cancel_order,es
+Cancélalo ahora,cancel_order,es
+Cancela ese producto,cancel_order,es
+Anula la compra,cancel_order,es
+Cancela mi pedido,cancel_order,es
+No lo entregues,cancel_order,es
+No lo entregues,cancel_order,es
+Quiero cancelar esto,cancel_order,es
+Ya no lo quiero,cancel_order,es
+Por favor cancela el producto,cancel_order,es
+Ya no lo quiero,cancel_order,es
+Cancélalo ahora,cancel_order,es
+Anula la compra,cancel_order,es
+Cancélalo ahora,cancel_order,es
+"Me equivoqué, cancela",cancel_order,es
+Detén el pedido,cancel_order,es
+Por favor cancela el producto,cancel_order,es
+Cancela ese producto,cancel_order,es
+Por favor cancela el producto,cancel_order,es
+"Me equivoqué, cancela",cancel_order,es
+Ya no lo quiero,cancel_order,es
+Cancela mi pedido,cancel_order,es
+Anula la compra,cancel_order,es
+Detén el pedido,cancel_order,es
+"Me equivoqué, cancela",cancel_order,es
+No lo entregues,cancel_order,es
+"Me equivoqué, cancela",cancel_order,es
+Ya no lo quiero,cancel_order,es
+Cancela ese producto,cancel_order,es
+Cancela mi pedido,cancel_order,es
+"Yes, place the order",confirm_order,en
+Order confirmed,confirm_order,en
+Order confirmed,confirm_order,en
+I’m okay with this order,confirm_order,en
+Place it now,confirm_order,en
+Place it now,confirm_order,en
+"Yes, place the order",confirm_order,en
+Please confirm purchase,confirm_order,en
+Confirm it now,confirm_order,en
+Place it now,confirm_order,en
+"Yes, go ahead",confirm_order,en
+"Yes, place the order",confirm_order,en
+Order confirmed,confirm_order,en
+I want to confirm,confirm_order,en
+Confirm it now,confirm_order,en
+Confirm my order,confirm_order,en
+I want to confirm,confirm_order,en
+Place it now,confirm_order,en
+I approve this,confirm_order,en
+I’m okay with this order,confirm_order,en
+I want to confirm,confirm_order,en
+I want to confirm,confirm_order,en
+"Yes, place the order",confirm_order,en
+I want to confirm,confirm_order,en
+Order confirmed,confirm_order,en
+I want to confirm,confirm_order,en
+"Yes, go ahead",confirm_order,en
+Confirm it now,confirm_order,en
+Confirm my order,confirm_order,en
+Order confirmed,confirm_order,en
+Place it now,confirm_order,en
+I want to confirm,confirm_order,en
+Order confirmed,confirm_order,en
+Confirm my order,confirm_order,en
+Order confirmed,confirm_order,en
+"Yes, go ahead",confirm_order,en
+Place it now,confirm_order,en
+Confirm my order,confirm_order,en
+Place it now,confirm_order,en
+Confirm it now,confirm_order,en
+"Yes, go ahead",confirm_order,en
+Confirm my order,confirm_order,en
+Confirm it now,confirm_order,en
+I approve this,confirm_order,en
+"Yes, go ahead",confirm_order,en
+I approve this,confirm_order,en
+Place it now,confirm_order,en
+Place it now,confirm_order,en
+I approve this,confirm_order,en
+Confirm it now,confirm_order,en
+"हां, आगे बढ़ो",confirm_order,hi
+मैं सहमत हूँ,confirm_order,hi
+ऑर्डर पक्का करें,confirm_order,hi
+मैं सहमत हूँ,confirm_order,hi
+"हां, ऑर्डर दो",confirm_order,hi
+इसे स्वीकृत करें,confirm_order,hi
+"हां, आगे बढ़ो",confirm_order,hi
+"हां, आगे बढ़ो",confirm_order,hi
+"हां, आगे बढ़ो",confirm_order,hi
+मैं पुष्टि करना चाहता हूँ,confirm_order,hi
+ऑर्डर पक्का करें,confirm_order,hi
+मैं पुष्टि करना चाहता हूँ,confirm_order,hi
+इसे कन्फर्म करो,confirm_order,hi
+इसे स्वीकृत करें,confirm_order,hi
+इसे कन्फर्म करो,confirm_order,hi
+मैं सहमत हूँ,confirm_order,hi
+ऑर्डर पक्का करें,confirm_order,hi
+"हां, ऑर्डर दो",confirm_order,hi
+इसे भेजो,confirm_order,hi
+मैं सहमत हूँ,confirm_order,hi
+ऑर्डर कन्फर्म है,confirm_order,hi
+इसे भेजो,confirm_order,hi
+मैं सहमत हूँ,confirm_order,hi
+मेरा ऑर्डर कन्फर्म करें,confirm_order,hi
+मैं पुष्टि करना चाहता हूँ,confirm_order,hi
+इसे कन्फर्म करो,confirm_order,hi
+इसे स्वीकृत करें,confirm_order,hi
+मैं पुष्टि करना चाहता हूँ,confirm_order,hi
+ऑर्डर पक्का करें,confirm_order,hi
+इसे भेजो,confirm_order,hi
+ऑर्डर कन्फर्म है,confirm_order,hi
+"हां, ऑर्डर दो",confirm_order,hi
+इसे भेजो,confirm_order,hi
+"हां, ऑर्डर दो",confirm_order,hi
+इसे भेजो,confirm_order,hi
+इसे कन्फर्म करो,confirm_order,hi
+इसे कन्फर्म करो,confirm_order,hi
+इसे स्वीकृत करें,confirm_order,hi
+मैं सहमत हूँ,confirm_order,hi
+इसे कन्फर्म करो,confirm_order,hi
+ऑर्डर पक्का करें,confirm_order,hi
+ऑर्डर कन्फर्म है,confirm_order,hi
+"हां, ऑर्डर दो",confirm_order,hi
+मैं पुष्टि करना चाहता हूँ,confirm_order,hi
+मैं पुष्टि करना चाहता हूँ,confirm_order,hi
+"हां, ऑर्डर दो",confirm_order,hi
+ऑर्डर पक्का करें,confirm_order,hi
+ऑर्डर पक्का करें,confirm_order,hi
+मैं पुष्टि करना चाहता हूँ,confirm_order,hi
+"हां, आगे बढ़ो",confirm_order,hi
+Confírmalo ahora,confirm_order,es
+Lo apruebo,confirm_order,es
+Confírmalo ahora,confirm_order,es
+Quiero confirmar,confirm_order,es
+Por favor confirma la compra,confirm_order,es
+Hazlo ya,confirm_order,es
+Quiero confirmar,confirm_order,es
+Por favor confirma la compra,confirm_order,es
+Quiero confirmar,confirm_order,es
+Quiero confirmar,confirm_order,es
+Quiero confirmar,confirm_order,es
+Confírmalo ahora,confirm_order,es
+Confirma mi pedido,confirm_order,es
+Quiero confirmar,confirm_order,es
+"Sí, haz el pedido",confirm_order,es
+Confírmalo ahora,confirm_order,es
+Por favor confirma la compra,confirm_order,es
+Estoy de acuerdo con esto,confirm_order,es
+Confirma mi pedido,confirm_order,es
+Confirma mi pedido,confirm_order,es
+Confirma mi pedido,confirm_order,es
+Confírmalo ahora,confirm_order,es
+Lo apruebo,confirm_order,es
+Estoy de acuerdo con esto,confirm_order,es
+Estoy de acuerdo con esto,confirm_order,es
+Quiero confirmar,confirm_order,es
+Pedido confirmado,confirm_order,es
+Por favor confirma la compra,confirm_order,es
+"Sí, adelante",confirm_order,es
+"Sí, adelante",confirm_order,es
+"Sí, haz el pedido",confirm_order,es
+"Sí, haz el pedido",confirm_order,es
+Lo apruebo,confirm_order,es
+"Sí, adelante",confirm_order,es
+Confírmalo ahora,confirm_order,es
+Confirma mi pedido,confirm_order,es
+Hazlo ya,confirm_order,es
+"Sí, adelante",confirm_order,es
+"Sí, adelante",confirm_order,es
+Quiero confirmar,confirm_order,es
+"Sí, haz el pedido",confirm_order,es
+Estoy de acuerdo con esto,confirm_order,es
+"Sí, adelante",confirm_order,es
+Confirma mi pedido,confirm_order,es
+Por favor confirma la compra,confirm_order,es
+Confírmalo ahora,confirm_order,es
+Hazlo ya,confirm_order,es
+Confírmalo ahora,confirm_order,es
+Pedido confirmado,confirm_order,es
+Confirma mi pedido,confirm_order,es
+Delivery update please,order_status,en
+Check my order,order_status,en
+Where is my order?,order_status,en
+Where is my order?,order_status,en
+Show status,order_status,en
+Did it get delivered?,order_status,en
+Where is my order?,order_status,en
+Check my order,order_status,en
+Track my delivery,order_status,en
+Delivery update please,order_status,en
+Did it get delivered?,order_status,en
+Order status?,order_status,en
+Check my order,order_status,en
+Where is my order?,order_status,en
+Order status?,order_status,en
+Has it shipped?,order_status,en
+Has it shipped?,order_status,en
+Order status?,order_status,en
+Show status,order_status,en
+Where is my order?,order_status,en
+Check my order,order_status,en
+What's happening with my order?,order_status,en
+Where is my order?,order_status,en
+Has it shipped?,order_status,en
+Where is my order?,order_status,en
+Where is my order?,order_status,en
+Is it coming?,order_status,en
+Track my delivery,order_status,en
+Track my delivery,order_status,en
+Track my delivery,order_status,en
+Did it get delivered?,order_status,en
+Where is my order?,order_status,en
+Track my delivery,order_status,en
+Track my delivery,order_status,en
+Check my order,order_status,en
+Order status?,order_status,en
+What's happening with my order?,order_status,en
+Did it get delivered?,order_status,en
+Has it shipped?,order_status,en
+Delivery update please,order_status,en
+Has it shipped?,order_status,en
+Delivery update please,order_status,en
+Check my order,order_status,en
+What's happening with my order?,order_status,en
+Is it coming?,order_status,en
+Show status,order_status,en
+Did it get delivered?,order_status,en
+Show status,order_status,en
+Has it shipped?,order_status,en
+Track my delivery,order_status,en
+स्टेटस दिखाओ,order_status,hi
+ऑर्डर चेक करो,order_status,hi
+डिलीवरी अपडेट दो,order_status,hi
+क्या आ रहा है?,order_status,hi
+ऑर्डर चेक करो,order_status,hi
+ऑर्डर चेक करो,order_status,hi
+मेरा ऑर्डर कहाँ है?,order_status,hi
+मेरा ऑर्डर कहाँ पहुंचा?,order_status,hi
+ऑर्डर की स्थिति?,order_status,hi
+मेरा ऑर्डर कहाँ पहुंचा?,order_status,hi
+मेरा ऑर्डर कहाँ है?,order_status,hi
+क्या ऑर्डर भेजा गया?,order_status,hi
+ऑर्डर की स्थिति?,order_status,hi
+क्या ऑर्डर भेजा गया?,order_status,hi
+क्या ऑर्डर भेजा गया?,order_status,hi
+ऑर्डर की स्थिति?,order_status,hi
+मेरा ऑर्डर कहाँ पहुंचा?,order_status,hi
+डिलीवरी अपडेट दो,order_status,hi
+क्या ऑर्डर भेजा गया?,order_status,hi
+मेरा ऑर्डर कहाँ है?,order_status,hi
+ऑर्डर चेक करो,order_status,hi
+स्टेटस दिखाओ,order_status,hi
+मेरा ऑर्डर कहाँ पहुंचा?,order_status,hi
+ऑर्डर की स्थिति?,order_status,hi
+क्या आ रहा है?,order_status,hi
+ऑर्डर की स्थिति?,order_status,hi
+क्या डिलीवर हो गया?,order_status,hi
+क्या ऑर्डर भेजा गया?,order_status,hi
+मेरी डिलीवरी ट्रैक करो,order_status,hi
+डिलीवरी अपडेट दो,order_status,hi
+ऑर्डर चेक करो,order_status,hi
+क्या डिलीवर हो गया?,order_status,hi
+ऑर्डर की स्थिति?,order_status,hi
+क्या ऑर्डर भेजा गया?,order_status,hi
+क्या आ रहा है?,order_status,hi
+मेरा ऑर्डर कहाँ पहुंचा?,order_status,hi
+स्टेटस दिखाओ,order_status,hi
+ऑर्डर की स्थिति?,order_status,hi
+क्या ऑर्डर भेजा गया?,order_status,hi
+क्या आ रहा है?,order_status,hi
+स्टेटस दिखाओ,order_status,hi
+मेरा ऑर्डर कहाँ है?,order_status,hi
+मेरा ऑर्डर कहाँ है?,order_status,hi
+डिलीवरी अपडेट दो,order_status,hi
+ऑर्डर की स्थिति?,order_status,hi
+क्या आ रहा है?,order_status,hi
+क्या डिलीवर हो गया?,order_status,hi
+मेरा ऑर्डर कहाँ है?,order_status,hi
+मेरा ऑर्डर कहाँ है?,order_status,hi
+ऑर्डर की स्थिति?,order_status,hi
+Muestra el estado,order_status,es
+¿Se entregó ya?,order_status,es
+¿Qué pasa con mi pedido?,order_status,es
+¿Qué pasa con mi pedido?,order_status,es
+Rastrea mi entrega,order_status,es
+¿Fue enviado?,order_status,es
+¿Qué pasa con mi pedido?,order_status,es
+Rastrea mi entrega,order_status,es
+¿Qué pasa con mi pedido?,order_status,es
+Rastrea mi entrega,order_status,es
+Rastrea mi entrega,order_status,es
+Verifica mi pedido,order_status,es
+¿Estado del pedido?,order_status,es
+¿Se entregó ya?,order_status,es
+¿Dónde está mi pedido?,order_status,es
+¿Se entregó ya?,order_status,es
+¿Se entregó ya?,order_status,es
+¿Dónde está mi pedido?,order_status,es
+¿Está en camino?,order_status,es
+¿Se entregó ya?,order_status,es
+¿Estado del pedido?,order_status,es
+¿Está en camino?,order_status,es
+Rastrea mi entrega,order_status,es
+Actualización de entrega,order_status,es
+¿Fue enviado?,order_status,es
+Actualización de entrega,order_status,es
+Muestra el estado,order_status,es
+Verifica mi pedido,order_status,es
+Verifica mi pedido,order_status,es
+Verifica mi pedido,order_status,es
+¿Fue enviado?,order_status,es
+¿Estado del pedido?,order_status,es
+Muestra el estado,order_status,es
+¿Se entregó ya?,order_status,es
+¿Qué pasa con mi pedido?,order_status,es
+Verifica mi pedido,order_status,es
+¿Se entregó ya?,order_status,es
+¿Fue enviado?,order_status,es
+¿Se entregó ya?,order_status,es
+¿Está en camino?,order_status,es
+Muestra el estado,order_status,es
+Actualización de entrega,order_status,es
+¿Está en camino?,order_status,es
+Rastrea mi entrega,order_status,es
+¿Estado del pedido?,order_status,es
+Muestra el estado,order_status,es
+¿Está en camino?,order_status,es
+Muestra el estado,order_status,es
+Actualización de entrega,order_status,es
+¿Estado del pedido?,order_status,es
+Change shipping info,change_address,en
+Correct my address,change_address,en
+Modify address,change_address,en
+Correct my address,change_address,en
+Correct my address,change_address,en
+Change shipping info,change_address,en
+Modify address,change_address,en
+Correct my address,change_address,en
+"I moved, update address",change_address,en
+Change my address,change_address,en
+I need to update my delivery address,change_address,en
+Change my address,change_address,en
+"I moved, update address",change_address,en
+"I moved, update address",change_address,en
+Edit my address,change_address,en
+"I moved, update address",change_address,en
+New delivery address,change_address,en
+Change the location,change_address,en
+Update my location,change_address,en
+Change my address,change_address,en
+Change my address,change_address,en
+Change the location,change_address,en
+Update my location,change_address,en
+I need to update my delivery address,change_address,en
+Change my address,change_address,en
+Correct my address,change_address,en
+Update my location,change_address,en
+Correct my address,change_address,en
+I need to update my delivery address,change_address,en
+Update my location,change_address,en
+Update my location,change_address,en
+"I moved, update address",change_address,en
+New delivery address,change_address,en
+New delivery address,change_address,en
+Update my location,change_address,en
+Change shipping info,change_address,en
+Modify address,change_address,en
+Change shipping info,change_address,en
+Edit my address,change_address,en
+Change my address,change_address,en
+Correct my address,change_address,en
+"I moved, update address",change_address,en
+New delivery address,change_address,en
+Change the location,change_address,en
+Correct my address,change_address,en
+I need to update my delivery address,change_address,en
+Update my location,change_address,en
+"I moved, update address",change_address,en
+Change the location,change_address,en
+Correct my address,change_address,en
+डिलीवरी पता अपडेट करना है,change_address,hi
+स्थान अपडेट करें,change_address,hi
+मेरा पता बदल दो,change_address,hi
+मैं शिफ्ट हो गया हूँ,change_address,hi
+मैं शिफ्ट हो गया हूँ,change_address,hi
+स्थान अपडेट करें,change_address,hi
+मेरा पता बदल दो,change_address,hi
+पता सही करें,change_address,hi
+पता संपादित करें,change_address,hi
+पता संपादित करें,change_address,hi
+पता संपादित करें,change_address,hi
+स्थान अपडेट करें,change_address,hi
+शिपिंग जानकारी बदलें,change_address,hi
+पता संपादित करें,change_address,hi
+स्थान बदलें,change_address,hi
+डिलीवरी पता अपडेट करना है,change_address,hi
+नया पता दर्ज करें,change_address,hi
+मैं शिफ्ट हो गया हूँ,change_address,hi
+पता संपादित करें,change_address,hi
+पता संपादित करें,change_address,hi
+मेरा पता बदल दो,change_address,hi
+मेरा पता बदल दो,change_address,hi
+पता संपादित करें,change_address,hi
+पता सही करें,change_address,hi
+मैं शिफ्ट हो गया हूँ,change_address,hi
+मेरा पता बदल दो,change_address,hi
+पता सही करें,change_address,hi
+स्थान अपडेट करें,change_address,hi
+नया पता दर्ज करें,change_address,hi
+स्थान बदलें,change_address,hi
+पता सही करें,change_address,hi
+डिलीवरी पता अपडेट करना है,change_address,hi
+शिपिंग जानकारी बदलें,change_address,hi
+मेरा पता बदल दो,change_address,hi
+डिलीवरी पता अपडेट करना है,change_address,hi
+स्थान बदलें,change_address,hi
+मेरा पता बदल दो,change_address,hi
+एड्रेस अपडेट करो,change_address,hi
+स्थान बदलें,change_address,hi
+पता संपादित करें,change_address,hi
+एड्रेस अपडेट करो,change_address,hi
+शिपिंग जानकारी बदलें,change_address,hi
+पता सही करें,change_address,hi
+मैं शिफ्ट हो गया हूँ,change_address,hi
+स्थान बदलें,change_address,hi
+मैं शिफ्ट हो गया हूँ,change_address,hi
+स्थान अपडेट करें,change_address,hi
+स्थान बदलें,change_address,hi
+पता संपादित करें,change_address,hi
+डिलीवरी पता अपडेट करना है,change_address,hi
+"Me mudé, actualiza dirección",change_address,es
+Modifica la dirección,change_address,es
+Nueva dirección de entrega,change_address,es
+Cambiar ubicación,change_address,es
+Nueva dirección de entrega,change_address,es
+Editar dirección,change_address,es
+Corrige mi dirección,change_address,es
+"Me mudé, actualiza dirección",change_address,es
+Modificar envío,change_address,es
+"Me mudé, actualiza dirección",change_address,es
+Editar dirección,change_address,es
+Modifica la dirección,change_address,es
+Editar dirección,change_address,es
+"Me mudé, actualiza dirección",change_address,es
+Modificar envío,change_address,es
+"Me mudé, actualiza dirección",change_address,es
+Actualizar mi ubicación,change_address,es
+Modificar envío,change_address,es
+Modifica la dirección,change_address,es
+Cambia mi dirección,change_address,es
+Cambiar ubicación,change_address,es
+Necesito actualizar la dirección,change_address,es
+Cambiar ubicación,change_address,es
+Modificar envío,change_address,es
+Modificar envío,change_address,es
+"Me mudé, actualiza dirección",change_address,es
+Necesito actualizar la dirección,change_address,es
+Corrige mi dirección,change_address,es
+Actualizar mi ubicación,change_address,es
+Modificar envío,change_address,es
+Necesito actualizar la dirección,change_address,es
+Modificar envío,change_address,es
+Editar dirección,change_address,es
+Actualizar mi ubicación,change_address,es
+Actualizar mi ubicación,change_address,es
+Nueva dirección de entrega,change_address,es
+Cambiar ubicación,change_address,es
+Cambia mi dirección,change_address,es
+Cambia mi dirección,change_address,es
+Cambiar ubicación,change_address,es
+Actualizar mi ubicación,change_address,es
+Cambiar ubicación,change_address,es
+Corrige mi dirección,change_address,es
+Necesito actualizar la dirección,change_address,es
+Editar dirección,change_address,es
+Editar dirección,change_address,es
+Necesito actualizar la dirección,change_address,es
+Nueva dirección de entrega,change_address,es
+Necesito actualizar la dirección,change_address,es
+Modifica la dirección,change_address,es
+Call me,contact_advisor,en
+Talk to a human,contact_advisor,en
+Customer care,contact_advisor,en
+Customer care,contact_advisor,en
+Contact agent,contact_advisor,en
+Contact agent,contact_advisor,en
+Talk to a human,contact_advisor,en
+Talk to a human,contact_advisor,en
+Talk to a human,contact_advisor,en
+Talk to a human,contact_advisor,en
+Support needed,contact_advisor,en
+Support needed,contact_advisor,en
+Contact agent,contact_advisor,en
+Support needed,contact_advisor,en
+Can I speak to someone?,contact_advisor,en
+Support needed,contact_advisor,en
+Help please,contact_advisor,en
+Help please,contact_advisor,en
+Help please,contact_advisor,en
+Help please,contact_advisor,en
+I need help,contact_advisor,en
+Connect me to support,contact_advisor,en
+Contact agent,contact_advisor,en
+Connect me to support,contact_advisor,en
+Call me,contact_advisor,en
+Customer care,contact_advisor,en
+Contact customer support,contact_advisor,en
+I need help,contact_advisor,en
+Contact customer support,contact_advisor,en
+Talk to a human,contact_advisor,en
+I need help,contact_advisor,en
+Contact customer support,contact_advisor,en
+Connect me to support,contact_advisor,en
+Can I speak to someone?,contact_advisor,en
+Support needed,contact_advisor,en
+Call me,contact_advisor,en
+Contact customer support,contact_advisor,en
+Talk to a human,contact_advisor,en
+Can I speak to someone?,contact_advisor,en
+Support needed,contact_advisor,en
+Customer care,contact_advisor,en
+Connect me to support,contact_advisor,en
+Call me,contact_advisor,en
+Connect me to support,contact_advisor,en
+Connect me to support,contact_advisor,en
+Call me,contact_advisor,en
+Support needed,contact_advisor,en
+I need help,contact_advisor,en
+Help please,contact_advisor,en
+Contact customer support,contact_advisor,en
+कस्टमर केयर से संपर्क करें,contact_advisor,hi
+कस्टमर केयर से संपर्क करें,contact_advisor,hi
+मुझे कनेक्ट करो,contact_advisor,hi
+कस्टमर सपोर्ट चाहिए,contact_advisor,hi
+सहायता करें,contact_advisor,hi
+सहायता चाहिए,contact_advisor,hi
+सहायता चाहिए,contact_advisor,hi
+मुझे मदद चाहिए,contact_advisor,hi
+मुझे कॉल करो,contact_advisor,hi
+सपोर्ट चाहिए,contact_advisor,hi
+मुझे कॉल करो,contact_advisor,hi
+मुझे मदद चाहिए,contact_advisor,hi
+कस्टमर सपोर्ट चाहिए,contact_advisor,hi
+मुझे कॉल करो,contact_advisor,hi
+कस्टमर केयर से संपर्क करें,contact_advisor,hi
+सहायता करें,contact_advisor,hi
+सहायता चाहिए,contact_advisor,hi
+मुझे मदद चाहिए,contact_advisor,hi
+मुझे कॉल करो,contact_advisor,hi
+मुझे कनेक्ट करो,contact_advisor,hi
+मुझे कॉल करो,contact_advisor,hi
+सहायता करें,contact_advisor,hi
+कस्टमर केयर से संपर्क करें,contact_advisor,hi
+मुझे कॉल करो,contact_advisor,hi
+सपोर्ट चाहिए,contact_advisor,hi
+सहायता चाहिए,contact_advisor,hi
+मुझे कनेक्ट करो,contact_advisor,hi
+मुझे कॉल करो,contact_advisor,hi
+सहायता चाहिए,contact_advisor,hi
+सहायता चाहिए,contact_advisor,hi
+सहायता चाहिए,contact_advisor,hi
+सहायता चाहिए,contact_advisor,hi
+किसी से बात कराओ,contact_advisor,hi
+सहायता चाहिए,contact_advisor,hi
+कस्टमर सपोर्ट चाहिए,contact_advisor,hi
+एजेंट से बात कराओ,contact_advisor,hi
+सहायता चाहिए,contact_advisor,hi
+सहायता चाहिए,contact_advisor,hi
+कस्टमर केयर से संपर्क करें,contact_advisor,hi
+कस्टमर सपोर्ट चाहिए,contact_advisor,hi
+सपोर्ट चाहिए,contact_advisor,hi
+मुझे कनेक्ट करो,contact_advisor,hi
+कस्टमर केयर से संपर्क करें,contact_advisor,hi
+सहायता करें,contact_advisor,hi
+मुझे कनेक्ट करो,contact_advisor,hi
+मुझे मदद चाहिए,contact_advisor,hi
+एजेंट से बात कराओ,contact_advisor,hi
+मुझे कनेक्ट करो,contact_advisor,hi
+एजेंट से बात कराओ,contact_advisor,hi
+मुझे कॉल करो,contact_advisor,hi
+Hablar con alguien,contact_advisor,es
+Necesito ayuda,contact_advisor,es
+Hablar con alguien,contact_advisor,es
+¿Puedo hablar con alguien?,contact_advisor,es
+Llámame,contact_advisor,es
+Contactar agente,contact_advisor,es
+Llámame,contact_advisor,es
+Contactar soporte,contact_advisor,es
+¿Puedo hablar con alguien?,contact_advisor,es
+Conéctame al soporte,contact_advisor,es
+Llámame,contact_advisor,es
+Contactar soporte,contact_advisor,es
+Conéctame al soporte,contact_advisor,es
+Atención al cliente,contact_advisor,es
+Llámame,contact_advisor,es
+Necesito ayuda,contact_advisor,es
+Hablar con alguien,contact_advisor,es
+Llámame,contact_advisor,es
+Contactar soporte,contact_advisor,es
+¿Puedo hablar con alguien?,contact_advisor,es
+Necesito ayuda,contact_advisor,es
+Contactar agente,contact_advisor,es
+Contactar soporte,contact_advisor,es
+Soporte necesario,contact_advisor,es
+Necesito ayuda,contact_advisor,es
+Hablar con alguien,contact_advisor,es
+Atención al cliente,contact_advisor,es
+Necesito ayuda,contact_advisor,es
+Conéctame al soporte,contact_advisor,es
+Atención al cliente,contact_advisor,es
+Ayuda por favor,contact_advisor,es
+Conéctame al soporte,contact_advisor,es
+Soporte necesario,contact_advisor,es
+Contactar soporte,contact_advisor,es
+Atención al cliente,contact_advisor,es
+Soporte necesario,contact_advisor,es
+Ayuda por favor,contact_advisor,es
+Ayuda por favor,contact_advisor,es
+Llámame,contact_advisor,es
+Necesito ayuda,contact_advisor,es
+Contactar soporte,contact_advisor,es
+Necesito ayuda,contact_advisor,es
+¿Puedo hablar con alguien?,contact_advisor,es
+¿Puedo hablar con alguien?,contact_advisor,es
+¿Puedo hablar con alguien?,contact_advisor,es
+Conéctame al soporte,contact_advisor,es
+Hablar con alguien,contact_advisor,es
+Ayuda por favor,contact_advisor,es
+Necesito ayuda,contact_advisor,es
+Necesito ayuda,contact_advisor,es
+What's in stock?,get_list_of_products,en
+Display all products,get_list_of_products,en
+Give me item list,get_list_of_products,en
+Display all products,get_list_of_products,en
+What can I buy?,get_list_of_products,en
+Items available?,get_list_of_products,en
+What can I buy?,get_list_of_products,en
+Available things,get_list_of_products,en
+Available things,get_list_of_products,en
+Items available?,get_list_of_products,en
+Display all products,get_list_of_products,en
+Give me item list,get_list_of_products,en
+I want to see products,get_list_of_products,en
+Available things,get_list_of_products,en
+Product list please,get_list_of_products,en
+I want to see products,get_list_of_products,en
+Give me item list,get_list_of_products,en
+Show me products,get_list_of_products,en
+Items available?,get_list_of_products,en
+What's in stock?,get_list_of_products,en
+Display all products,get_list_of_products,en
+Display all products,get_list_of_products,en
+Show me products,get_list_of_products,en
+Display all products,get_list_of_products,en
+I want to see products,get_list_of_products,en
+List available items,get_list_of_products,en
+Display all products,get_list_of_products,en
+Display all products,get_list_of_products,en
+Available things,get_list_of_products,en
+Give me item list,get_list_of_products,en
+List available items,get_list_of_products,en
+Give me item list,get_list_of_products,en
+Give me item list,get_list_of_products,en
+Display all products,get_list_of_products,en
+Give me item list,get_list_of_products,en
+What's in stock?,get_list_of_products,en
+What's in stock?,get_list_of_products,en
+Give me item list,get_list_of_products,en
+What can I buy?,get_list_of_products,en
+Items available?,get_list_of_products,en
+I want to see products,get_list_of_products,en
+Give me item list,get_list_of_products,en
+Available things,get_list_of_products,en
+I want to see products,get_list_of_products,en
+Items available?,get_list_of_products,en
+Items available?,get_list_of_products,en
+Show me products,get_list_of_products,en
+Display all products,get_list_of_products,en
+Give me item list,get_list_of_products,en
+Available things,get_list_of_products,en
+स्टॉक में क्या है?,get_list_of_products,hi
+क्या खरीद सकते हैं?,get_list_of_products,hi
+मुझे उत्पाद दिखाओ,get_list_of_products,hi
+आइटम लिस्ट दो,get_list_of_products,hi
+आइटम लिस्ट दो,get_list_of_products,hi
+उपलब्ध आइटम्स?,get_list_of_products,hi
+सभी उत्पाद दिखाओ,get_list_of_products,hi
+क्या-क्या मिल रहा है?,get_list_of_products,hi
+उपलब्ध आइटम सूची,get_list_of_products,hi
+मुझे उत्पाद दिखाओ,get_list_of_products,hi
+उपलब्ध आइटम सूची,get_list_of_products,hi
+मुझे उत्पाद दिखाओ,get_list_of_products,hi
+मुझे उत्पाद दिखाओ,get_list_of_products,hi
+आइटम लिस्ट दो,get_list_of_products,hi
+स्टॉक में क्या है?,get_list_of_products,hi
+क्या-क्या मिल रहा है?,get_list_of_products,hi
+उपलब्ध आइटम्स?,get_list_of_products,hi
+क्या-क्या मिल रहा है?,get_list_of_products,hi
+सभी उत्पाद दिखाओ,get_list_of_products,hi
+उपलब्ध आइटम सूची,get_list_of_products,hi
+क्या-क्या मिल रहा है?,get_list_of_products,hi
+क्या खरीद सकते हैं?,get_list_of_products,hi
+आइटम लिस्ट दो,get_list_of_products,hi
+उपलब्ध आइटम सूची,get_list_of_products,hi
+स्टॉक में क्या है?,get_list_of_products,hi
+सभी उत्पाद दिखाओ,get_list_of_products,hi
+प्रोडक्ट लिस्ट दो,get_list_of_products,hi
+आइटम लिस्ट दो,get_list_of_products,hi
+सभी उत्पाद दिखाओ,get_list_of_products,hi
+मुझे उत्पाद दिखाओ,get_list_of_products,hi
+मुझे उत्पाद दिखाओ,get_list_of_products,hi
+मैं आइटम देखना चाहता हूँ,get_list_of_products,hi
+क्या-क्या मिल रहा है?,get_list_of_products,hi
+क्या-क्या मिल रहा है?,get_list_of_products,hi
+प्रोडक्ट लिस्ट दो,get_list_of_products,hi
+उपलब्ध आइटम सूची,get_list_of_products,hi
+आइटम लिस्ट दो,get_list_of_products,hi
+क्या खरीद सकते हैं?,get_list_of_products,hi
+उपलब्ध आइटम्स?,get_list_of_products,hi
+प्रोडक्ट लिस्ट दो,get_list_of_products,hi
+क्या-क्या मिल रहा है?,get_list_of_products,hi
+प्रोडक्ट लिस्ट दो,get_list_of_products,hi
+उपलब्ध आइटम्स?,get_list_of_products,hi
+क्या-क्या मिल रहा है?,get_list_of_products,hi
+आइटम लिस्ट दो,get_list_of_products,hi
+क्या खरीद सकते हैं?,get_list_of_products,hi
+क्या खरीद सकते हैं?,get_list_of_products,hi
+प्रोडक्ट लिस्ट दो,get_list_of_products,hi
+क्या खरीद सकते हैं?,get_list_of_products,hi
+मैं आइटम देखना चाहता हूँ,get_list_of_products,hi
+¿Qué hay en stock?,get_list_of_products,es
+Lista de productos,get_list_of_products,es
+Quiero ver productos,get_list_of_products,es
+Quiero ver productos,get_list_of_products,es
+¿Qué hay en stock?,get_list_of_products,es
+¿Qué hay en stock?,get_list_of_products,es
+Lista de productos,get_list_of_products,es
+Lista de productos,get_list_of_products,es
+Cosas disponibles,get_list_of_products,es
+Lista de productos,get_list_of_products,es
+¿Artículos disponibles?,get_list_of_products,es
+Dame lista de artículos,get_list_of_products,es
+Quiero ver productos,get_list_of_products,es
+Dame lista de artículos,get_list_of_products,es
+Mostrar productos,get_list_of_products,es
+Mostrar productos,get_list_of_products,es
+Lista de productos,get_list_of_products,es
+Mostrar productos,get_list_of_products,es
+¿Qué hay en stock?,get_list_of_products,es
+¿Artículos disponibles?,get_list_of_products,es
+Quiero ver productos,get_list_of_products,es
+Quiero ver productos,get_list_of_products,es
+Muéstrame los productos,get_list_of_products,es
+¿Qué puedo comprar?,get_list_of_products,es
+Lista de productos,get_list_of_products,es
+Lista de artículos disponibles,get_list_of_products,es
+Lista de artículos disponibles,get_list_of_products,es
+Quiero ver productos,get_list_of_products,es
+Dame lista de artículos,get_list_of_products,es
+Cosas disponibles,get_list_of_products,es
+Muéstrame los productos,get_list_of_products,es
+Lista de artículos disponibles,get_list_of_products,es
+Lista de artículos disponibles,get_list_of_products,es
+¿Qué puedo comprar?,get_list_of_products,es
+Dame lista de artículos,get_list_of_products,es
+¿Qué puedo comprar?,get_list_of_products,es
+¿Qué hay en stock?,get_list_of_products,es
+Cosas disponibles,get_list_of_products,es
+Lista de productos,get_list_of_products,es
+¿Qué hay en stock?,get_list_of_products,es
+Mostrar productos,get_list_of_products,es
+Quiero ver productos,get_list_of_products,es
+¿Qué puedo comprar?,get_list_of_products,es
+¿Qué hay en stock?,get_list_of_products,es
+Mostrar productos,get_list_of_products,es
+Quiero ver productos,get_list_of_products,es
+Quiero ver productos,get_list_of_products,es
+Dame lista de artículos,get_list_of_products,es
+¿Artículos disponibles?,get_list_of_products,es
+¿Artículos disponibles?,get_list_of_products,es
+Sing me a song,not_ecommerce,en
+What is your name?,not_ecommerce,en
+Tell me a joke,not_ecommerce,en
+What's the weather?,not_ecommerce,en
+Who created you?,not_ecommerce,en
+Who created you?,not_ecommerce,en
+What is your name?,not_ecommerce,en
+What's the weather?,not_ecommerce,en
+Who created you?,not_ecommerce,en
+What is your name?,not_ecommerce,en
+Who created you?,not_ecommerce,en
+Sing me a song,not_ecommerce,en
+What's the weather?,not_ecommerce,en
+Tell me a joke,not_ecommerce,en
+Tell me a joke,not_ecommerce,en
+What's the weather?,not_ecommerce,en
+Sing me a song,not_ecommerce,en
+Sing me a song,not_ecommerce,en
+Who created you?,not_ecommerce,en
+Who created you?,not_ecommerce,en
+Who created you?,not_ecommerce,en
+Who created you?,not_ecommerce,en
+What is your name?,not_ecommerce,en
+Tell me a joke,not_ecommerce,en
+Sing me a song,not_ecommerce,en
+What is your name?,not_ecommerce,en
+Sing me a song,not_ecommerce,en
+What's the weather?,not_ecommerce,en
+Tell me a joke,not_ecommerce,en
+Sing me a song,not_ecommerce,en
+Sing me a song,not_ecommerce,en
+What's the weather?,not_ecommerce,en
+What is your name?,not_ecommerce,en
+What is your name?,not_ecommerce,en
+What is your name?,not_ecommerce,en
+What is your name?,not_ecommerce,en
+Sing me a song,not_ecommerce,en
+What's the weather?,not_ecommerce,en
+Sing me a song,not_ecommerce,en
+Tell me a joke,not_ecommerce,en
+What's the weather?,not_ecommerce,en
+Tell me a joke,not_ecommerce,en
+What's the weather?,not_ecommerce,en
+Sing me a song,not_ecommerce,en
+Sing me a song,not_ecommerce,en
+What is your name?,not_ecommerce,en
+What's the weather?,not_ecommerce,en
+Who created you?,not_ecommerce,en
+Tell me a joke,not_ecommerce,en
+Tell me a joke,not_ecommerce,en
+तुम्हें किसने बनाया?,not_ecommerce,hi
+मौसम कैसा है?,not_ecommerce,hi
+मुझे एक चुटकुला सुनाओ,not_ecommerce,hi
+तुम्हें किसने बनाया?,not_ecommerce,hi
+मुझे एक चुटकुला सुनाओ,not_ecommerce,hi
+मौसम कैसा है?,not_ecommerce,hi
+मौसम कैसा है?,not_ecommerce,hi
+तुम्हें किसने बनाया?,not_ecommerce,hi
+तुम्हारा नाम क्या है?,not_ecommerce,hi
+तुम्हें किसने बनाया?,not_ecommerce,hi
+एक गाना सुनाओ,not_ecommerce,hi
+मुझे एक चुटकुला सुनाओ,not_ecommerce,hi
+तुम्हें किसने बनाया?,not_ecommerce,hi
+एक गाना सुनाओ,not_ecommerce,hi
+मुझे एक चुटकुला सुनाओ,not_ecommerce,hi
+तुम्हारा नाम क्या है?,not_ecommerce,hi
+एक गाना सुनाओ,not_ecommerce,hi
+मौसम कैसा है?,not_ecommerce,hi
+मौसम कैसा है?,not_ecommerce,hi
+मुझे एक चुटकुला सुनाओ,not_ecommerce,hi
+मौसम कैसा है?,not_ecommerce,hi
+तुम्हारा नाम क्या है?,not_ecommerce,hi
+तुम्हारा नाम क्या है?,not_ecommerce,hi
+एक गाना सुनाओ,not_ecommerce,hi
+मौसम कैसा है?,not_ecommerce,hi
+तुम्हारा नाम क्या है?,not_ecommerce,hi
+एक गाना सुनाओ,not_ecommerce,hi
+मौसम कैसा है?,not_ecommerce,hi
+मौसम कैसा है?,not_ecommerce,hi
+एक गाना सुनाओ,not_ecommerce,hi
+तुम्हारा नाम क्या है?,not_ecommerce,hi
+मुझे एक चुटकुला सुनाओ,not_ecommerce,hi
+एक गाना सुनाओ,not_ecommerce,hi
+तुम्हें किसने बनाया?,not_ecommerce,hi
+मुझे एक चुटकुला सुनाओ,not_ecommerce,hi
+तुम्हें किसने बनाया?,not_ecommerce,hi
+तुम्हें किसने बनाया?,not_ecommerce,hi
+तुम्हें किसने बनाया?,not_ecommerce,hi
+तुम्हें किसने बनाया?,not_ecommerce,hi
+मुझे एक चुटकुला सुनाओ,not_ecommerce,hi
+तुम्हें किसने बनाया?,not_ecommerce,hi
+तुम्हारा नाम क्या है?,not_ecommerce,hi
+तुम्हें किसने बनाया?,not_ecommerce,hi
+मौसम कैसा है?,not_ecommerce,hi
+एक गाना सुनाओ,not_ecommerce,hi
+तुम्हारा नाम क्या है?,not_ecommerce,hi
+तुम्हें किसने बनाया?,not_ecommerce,hi
+तुम्हारा नाम क्या है?,not_ecommerce,hi
+तुम्हें किसने बनाया?,not_ecommerce,hi
+मुझे एक चुटकुला सुनाओ,not_ecommerce,hi
+¿Cuál es tu nombre?,not_ecommerce,es
+Cántame una canción,not_ecommerce,es
+¿Cómo está el clima?,not_ecommerce,es
+¿Cómo está el clima?,not_ecommerce,es
+Cuéntame un chiste,not_ecommerce,es
+¿Quién te creó?,not_ecommerce,es
+¿Cómo está el clima?,not_ecommerce,es
+¿Cuál es tu nombre?,not_ecommerce,es
+Cuéntame un chiste,not_ecommerce,es
+Cántame una canción,not_ecommerce,es
+¿Cómo está el clima?,not_ecommerce,es
+Cántame una canción,not_ecommerce,es
+¿Cuál es tu nombre?,not_ecommerce,es
+¿Cuál es tu nombre?,not_ecommerce,es
+Cántame una canción,not_ecommerce,es
+Cántame una canción,not_ecommerce,es
+¿Cuál es tu nombre?,not_ecommerce,es
+Cuéntame un chiste,not_ecommerce,es
+Cántame una canción,not_ecommerce,es
+¿Quién te creó?,not_ecommerce,es
+Cántame una canción,not_ecommerce,es
+¿Quién te creó?,not_ecommerce,es
+Cuéntame un chiste,not_ecommerce,es
+¿Cómo está el clima?,not_ecommerce,es
+¿Cuál es tu nombre?,not_ecommerce,es
+¿Cómo está el clima?,not_ecommerce,es
+Cántame una canción,not_ecommerce,es
+Cuéntame un chiste,not_ecommerce,es
+¿Cómo está el clima?,not_ecommerce,es
+¿Quién te creó?,not_ecommerce,es
+Cántame una canción,not_ecommerce,es
+Cuéntame un chiste,not_ecommerce,es
+Cuéntame un chiste,not_ecommerce,es
+¿Cómo está el clima?,not_ecommerce,es
+Cántame una canción,not_ecommerce,es
+Cántame una canción,not_ecommerce,es
+Cántame una canción,not_ecommerce,es
+¿Cómo está el clima?,not_ecommerce,es
+¿Quién te creó?,not_ecommerce,es
+¿Cómo está el clima?,not_ecommerce,es
+¿Quién te creó?,not_ecommerce,es
+Cántame una canción,not_ecommerce,es
+¿Cómo está el clima?,not_ecommerce,es
+¿Cómo está el clima?,not_ecommerce,es
+Cántame una canción,not_ecommerce,es
+¿Cuál es tu nombre?,not_ecommerce,es
+¿Cómo está el clima?,not_ecommerce,es
+¿Cómo está el clima?,not_ecommerce,es
+¿Cuál es tu nombre?,not_ecommerce,es
+Cuéntame un chiste,not_ecommerce,es
